@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=21c49e&height=80&section=header&text=CORY's%20GitHub&fontSize=18&animation=fadeIn&fontColor=ffffff">
+  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=corykim0829&show_icons=true&hide_title=true&count_private&line_height=32&bg_color=121212&text_color=FFFFFF&icon_color=a4dbd6&hide_border=true&title_color=1ed96f" />
+  </a>
+
 </p>
 
 <h5 align="center">Tech Stack</h5>
@@ -32,11 +36,3 @@
 </p>
 
 <br>
-
-<p align="center">
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=corykim0829&show_icons=true&hide_title=true&count_private&line_height=32&bg_color=121212&text_color=FFFFFF&icon_color=a4dbd6&hide_border=true&title_color=1ed96f" />
-  </a>
-
-</p>
