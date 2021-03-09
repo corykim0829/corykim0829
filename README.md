@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=80&section=header&text=CORY's%20GitHub&fontSize=18">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=21c49e&height=80&section=header&text=CORY's%20GitHub&fontSize=18&animation=fadeIn&fontColor=ffffff">
 </p>
 
 <h5 align="center">Tech Stack</h5>
