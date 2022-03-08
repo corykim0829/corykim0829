@@ -19,5 +19,4 @@
   <a href="https://apps.apple.com/kr/app/카찹-이동수단-통합앱/id1506198003">
     <img src="https://img.shields.io/badge/Carchap!-3333cc?style=flat-square"/>
   </a>
-  <img src="https://img.shields.io/badge/Cake'it-FF4470?style=flat-square"/>
 </p>
